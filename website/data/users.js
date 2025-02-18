@@ -41,4 +41,10 @@ module.exports = [
       'https://obs.line-scdn.net/0hDQKKdJiUG352MjMGKo1kKVdvEBxFUAV1VFRTHFE1QktbB1lGSQBRTFdgTEwLBQ98SldcGT0yTRtbClkhQhFVS1dhQ0cOCw/f256x256',
     infoLink: 'https://www.notion.so/hilezi/d7ac6acf3ee94029a245be3df3c9f5fe',
   },
+  {
+    caption: 'Rodoud.com',
+    image:
+      'https://app.rodoud.com/media/logos/rodoud.svg',
+    infoLink: 'https://rodoud.com',
+  },
 ];
